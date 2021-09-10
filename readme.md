@@ -1,3 +1,3 @@
-#Github
+#Site pessoal
 
-- git init
+- Site feito com base em loja de alimentos, projeto pessoal.
