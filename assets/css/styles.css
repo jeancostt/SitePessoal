@@ -6,8 +6,8 @@
   --header-height: 3rem;
 
   /*========== Cores ==========*/
-  --first-color: #069C54;
-  --first-color-alt: #048654;
+  --first-color: #c94a34;
+  --first-color-alt: #c94a34;
   --title-color: #393939;
   --text-color: #707070;
   --text-color-light: #A6A6A6;
@@ -226,7 +226,7 @@ img{
   justify-content: center;
   align-items: center;
   padding: .3rem;
-  background: rgba(6,156,84,.5);
+  background: rgba(243, 71, 41, 0.678);
   border-radius: .4rem;
   z-index: var(--z-tooltip);
   transition: .4s;
